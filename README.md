@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://iconscout.com/lottie-animation/hacker-5817421_4847665](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fhacker&psig=AOvVaw2Avoq5E4hL2jKr83Eijh_Y&ust=1753978746042000&source=images&opi=89978449)"  />
+<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fhacker&psig=AOvVaw2Avoq5E4hL2jKr83Eijh_Y&ust=1753978746042000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCW_JP-5I4DFQAAAAAdAAAAABAE"  />
 
 ###
 
